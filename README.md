@@ -1,6 +1,9 @@
 Rohit Gajawada
 201401067
 
+# RL_algos
+
+
 Prob1)
 
 a) Cartpole
@@ -26,4 +29,7 @@ Neural Network)
 a) Q-Learning with neural network: python3 dqn.py --episodes=1000 --algo='dqn'
 b) Double Q-Learning with neural network: python3 dqn.py --episodes=1000 --algo='doubledqn'
 c) PG with neural network: python3 atari_pong_policy_gradient.py --network='net'
-# RL_algos
+
+
+Project)
+Discrete ACER
